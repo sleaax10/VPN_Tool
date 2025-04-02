@@ -5,3 +5,21 @@ https://a.y1z.org/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2
 https://gh-proxy.du33169.workers.dev/https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/vless, tag=Tag-1743002650, update-interval=172800, opt-parser=true, enabled=true
 https://pb.jiedianxielou.workers.dev/ddp8, tag=Tag-1742998884, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt#hack_proxy, tag=Tag-1742985639, update-interval=172800, opt-parser=true, enabled=true
+💢 
+# blackmatrix7/ios_rule_script
+;https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/Privacy/Privacy.list
+# hostsVN/domain
+;https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/option/domain.txt
+;https://github.com/bigdargon/hostsVN/raw/refs/heads/master/source/hosts-group.txt
+;https://dpaste.org/ODgBA/raw
+# 👁‍🗨In-AppTracker.txt
+;https://github.com/Marcio2536/MySurge/raw/refs/heads/main/RuleSet/In-AppTracker.txt
+;https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Surge/Rule/Advertising.list
+;https://github.com/ShadowWhisperer/BlockLists/raw/bb937922ff2d4c0b566de278bcebc294ffee7507/Lists/Ads
+;https://dpaste.org/NJ7CQ/raw https://dpaste.org/hBBrL/raw 
+;❌https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list 
+# You can check the sample snippets at https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
+#https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
+# 216000 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockqx.conf
+ 
+host, www.example.com, direct
