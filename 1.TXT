@@ -22,4 +22,4 @@ https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt#hack_proxy, tag=Ta
 #https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 # 216000 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockqx.conf
  
-host, www.example.com, direct
+host, www.example.com,  direct
